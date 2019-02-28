@@ -1,0 +1,76 @@
+body {
+	background-color: #F0F0F0;
+	color: #4E5762;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+	color: #4E5762;
+	margin: 20px;
+}
+
+label {
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 1.1rem;
+	font-weight: bold;
+	color: #6CD5F5;
+}
+
+.estim {
+	font-weight: normal;
+	color: #4E5762;
+}
+
+.data {
+	padding: 0px;
+}
+
+th {
+	text-align: center;
+	background-color: white;
+}
+
+.formulaire {
+	margin: 20px 30px;
+}
+
+.menu {
+	background-color: white;
+	border: 1px solid #EEE;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+table {
+	margin-top: 20px;
+}
+
+th, td {
+	color: #4E5762;
+}
+
+table tr:nth-child(even) {
+	background-color: #BBEBEE;
+}
+
+table tr:nth-child(odd) {
+	background-color: #E8F8F9;
+}
+
+.total {
+	background-color: #1CBDC7;
+	color: white;
+}
+
+.info {
+	font-weight: normal;
+}
+
+.right {
+	text-align: right;
+}
